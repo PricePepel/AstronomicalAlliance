@@ -1,4 +1,6 @@
-# Educational Platform
+# Astronomical Alliance
+
+**Live:** [astronomical-alliance.vercel.app](https://astronomical-alliance.vercel.app)
 
 A NASA-style educational platform built with Next.js, TypeScript, Tailwind CSS, and Supabase. Features internationalization, role-based access control, and a comprehensive admin panel.
 
@@ -33,8 +35,8 @@ A NASA-style educational platform built with Next.js, TypeScript, Tailwind CSS, 
 ### 1. Clone and Install
 
 ```bash
-git clone <your-repo-url>
-cd newAA
+git clone https://github.com/PricePepel/AstronomicalAlliance.git
+cd AstronomicalAlliance
 npm install
 ```
 
@@ -113,7 +115,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key_here
 ## 📁 Project Structure
 
 ```
-newAA/
+AstronomicalAlliance/
 ├── app/
 │   ├── [locale]/           # Localized pages
 │   │   ├── page.tsx        # Home page
